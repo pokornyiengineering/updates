@@ -1,0 +1,5 @@
+{
+  "version": "0.10.66",
+  "url": "Plugin/SimEngineSetup-0.10.66.exe",
+  "notes": "Plugin self-update + separate plugin/dash manifests."
+}
