@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "Plugin/SimEngineSetup-1.0.0.exe",
-  "notes": "SimEngine 1.0 release."
+  "version": "1.0.1",
+  "url": "Plugin/SimEngineSetup-1.0.1.exe",
+  "notes": "Fixes clutch calibration for short-throw paddles (small analog travel)."
 }
