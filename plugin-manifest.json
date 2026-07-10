@@ -1,5 +1,5 @@
 {
-  "version": "0.10.67",
-  "url": "Plugin/SimEngineSetup-0.10.67.exe",
-  "notes": "Always-available download & install buttons (plugin + dash); separate manifests."
+  "version": "1.0.0",
+  "url": "Plugin/SimEngineSetup-1.0.0.exe",
+  "notes": "SimEngine 1.0 release."
 }
