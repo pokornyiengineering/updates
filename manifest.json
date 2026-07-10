@@ -1,0 +1,67 @@
+{
+  "PE F499": {
+    "bin": "F499/FW_SimEngine_v3.0.31_F499.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE FGT": {
+    "bin": "FGT/FW_SimEngine_v3.0.31_FGT.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE GTB Pro": {
+    "bin": "GTBPRO/FW_SimEngine_v3.0.31_GTBPRO.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE GTE PRO V3": {
+    "bin": "GTEPROV3/FW_SimEngine_v3.0.31_GTEPROV3.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE HYP-R": {
+    "bin": "HYPR/FW_SimEngine_v3.0.31_HYPR.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE HYP-R PRO": {
+    "bin": "HYPRPRO/FW_SimEngine_v3.0.31_HYPRPRO.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE LMP PRO V2": {
+    "bin": "LMPPROV2/FW_SimEngine_v3.0.31_LMPPROV2.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE LMPH": {
+    "bin": "LMPH/FW_SimEngine_v3.0.31_LMPH.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE MCP ButtonBox": {
+    "bin": "MCPBB/FW_SimEngine_v3.0.31_MCPBB.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE MCP EncoderBox": {
+    "bin": "MCPEB/FW_SimEngine_v3.0.31_MCPEB.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE MCP IgnitionBox": {
+    "bin": "MCPIB/FW_SimEngine_v3.0.31_MCPIB.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE RALLY": {
+    "bin": "RALLY/FW_SimEngine_v3.0.31_RALLY.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  },
+  "PE TGR-H": {
+    "bin": "TGRH/FW_SimEngine_v3.0.31_TGRH.bin",
+    "notes": "Initial SimEngine 3.0 release",
+    "version": "3.0.31"
+  }
+}
