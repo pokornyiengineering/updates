@@ -62,6 +62,18 @@
   "PE TGR-H": {
     "bin": "TGRH/FW_SimEngine_v3.0.33_TGRH.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.0.34-beta_TGRH.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "TGRH/FW_SimEngine_v3.0.33_TGRH.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   }
 }
