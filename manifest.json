@@ -1,9 +1,14 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.0.33_F499.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "F499/FW_SimEngine_v3.0.36_F499.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "F499/FW_SimEngine_v3.0.36_F499.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "F499/FW_SimEngine_v3.0.34-beta_F499.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -17,10 +22,15 @@
     ]
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.0.33_FGT.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "FGT/FW_SimEngine_v3.0.36_FGT.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.0.36_FGT.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "FGT/FW_SimEngine_v3.0.34-beta_FGT.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -34,10 +44,15 @@
     ]
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.0.33_GTBPRO.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "GTBPRO/FW_SimEngine_v3.0.36_GTBPRO.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.0.36_GTBPRO.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.0.34-beta_GTBPRO.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -51,10 +66,15 @@
     ]
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.0.33_GTEPROV3.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "GTEPROV3/FW_SimEngine_v3.0.36_GTEPROV3.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.0.36_GTEPROV3.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.0.34-beta_GTEPROV3.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -68,10 +88,15 @@
     ]
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.0.33_HYPR.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "HYPR/FW_SimEngine_v3.0.36_HYPR.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "HYPR/FW_SimEngine_v3.0.36_HYPR.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "HYPR/FW_SimEngine_v3.0.34-beta_HYPR.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -85,10 +110,15 @@
     ]
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.0.33_HYPRPRO.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "HYPRPRO/FW_SimEngine_v3.0.36_HYPRPRO.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.0.36_HYPRPRO.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.0.34-beta_HYPRPRO.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -102,10 +132,15 @@
     ]
   },
   "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.0.33_LMPPROV2.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "LMPPROV2/FW_SimEngine_v3.0.36_LMPPROV2.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.0.36_LMPPROV2.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.0.34-beta_LMPPROV2.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -119,10 +154,15 @@
     ]
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.0.33_LMPH.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "LMPH/FW_SimEngine_v3.0.36_LMPH.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "LMPH/FW_SimEngine_v3.0.36_LMPH.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "LMPH/FW_SimEngine_v3.0.34-beta_LMPH.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -136,10 +176,15 @@
     ]
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.0.33_MCPBB.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "MCPBB/FW_SimEngine_v3.0.36_MCPBB.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.0.36_MCPBB.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "MCPBB/FW_SimEngine_v3.0.34-beta_MCPBB.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -153,10 +198,15 @@
     ]
   },
   "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.0.33_MCPEB.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "MCPEB/FW_SimEngine_v3.0.36_MCPEB.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.0.36_MCPEB.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "MCPEB/FW_SimEngine_v3.0.34-beta_MCPEB.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -170,10 +220,15 @@
     ]
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.0.33_MCPIB.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "MCPIB/FW_SimEngine_v3.0.36_MCPIB.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.0.36_MCPIB.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "MCPIB/FW_SimEngine_v3.0.34-beta_MCPIB.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -187,10 +242,15 @@
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.0.33_RALLY.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "RALLY/FW_SimEngine_v3.0.36_RALLY.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.0.36_RALLY.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "RALLY/FW_SimEngine_v3.0.34-beta_RALLY.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
@@ -204,10 +264,15 @@
     ]
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.0.33_TGRH.bin",
-    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33",
+    "bin": "TGRH/FW_SimEngine_v3.0.36_TGRH.bin",
+    "notes": "Advanced target setting feature + flash save fix.",
+    "version": "3.0.36",
     "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.0.36_TGRH.bin",
+        "notes": "Advanced target setting feature + flash save fix.",
+        "version": "3.0.36"
+      },
       {
         "bin": "TGRH/FW_SimEngine_v3.0.34-beta_TGRH.bin",
         "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
