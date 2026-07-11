@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "Plugin/SimEngineSetup-1.0.3.exe",
-  "notes": "Simplified clutch calibration (on-device min/max, Start/Finish); fixes a SimHub startup freeze."
+  "version": "1.0.4",
+  "url": "Plugin/SimEngineSetup-1.0.4.exe",
+  "notes": "Simplified clutch calibration (on-device min/max, Start/Finish); fixes SimHub freezes from HID enumeration."
 }
