@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "Plugin/SimEngineSetup-1.0.4.exe",
-  "notes": "Simplified clutch calibration (on-device min/max, Start/Finish); fixes SimHub freezes from HID enumeration."
+  "version": "1.0.5",
+  "url": "Plugin/SimEngineSetup-1.0.5.exe",
+  "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads."
 }

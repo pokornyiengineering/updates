@@ -1,67 +1,67 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.0.32_F499.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "F499/FW_SimEngine_v3.0.33_F499.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.0.32_FGT.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "FGT/FW_SimEngine_v3.0.33_FGT.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.0.32_GTBPRO.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "GTBPRO/FW_SimEngine_v3.0.33_GTBPRO.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.0.32_GTEPROV3.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "GTEPROV3/FW_SimEngine_v3.0.33_GTEPROV3.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.0.32_HYPR.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "HYPR/FW_SimEngine_v3.0.33_HYPR.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.0.32_HYPRPRO.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "HYPRPRO/FW_SimEngine_v3.0.33_HYPRPRO.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.0.32_LMPPROV2.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "LMPPROV2/FW_SimEngine_v3.0.33_LMPPROV2.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.0.32_LMPH.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "LMPH/FW_SimEngine_v3.0.33_LMPH.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.0.32_MCPBB.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "MCPBB/FW_SimEngine_v3.0.33_MCPBB.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.0.32_MCPEB.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "MCPEB/FW_SimEngine_v3.0.33_MCPEB.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.0.32_MCPIB.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "MCPIB/FW_SimEngine_v3.0.33_MCPIB.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.0.32_RALLY.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "RALLY/FW_SimEngine_v3.0.33_RALLY.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.0.32_TGRH.bin",
-    "notes": "Clutch calibration: simplified on-device min/max (Start/Finish).",
-    "version": "3.0.32"
+    "bin": "TGRH/FW_SimEngine_v3.0.33_TGRH.bin",
+    "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+    "version": "3.0.33"
   }
 }
