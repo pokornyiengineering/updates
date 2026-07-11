@@ -1,5 +1,17 @@
 {
   "version": "1.0.5",
   "url": "Plugin/SimEngineSetup-1.0.5.exe",
-  "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads."
+  "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads.",
+  "versions": [
+    {
+      "version": "1.0.8-beta",
+      "url": "Plugin/SimEngineSetup-1.0.8-beta.exe",
+      "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target) + versioned updates (version dropdown, rollback, per-section beta channel). The advanced-target feature needs 3.0.34-beta firmware."
+    },
+    {
+      "version": "1.0.5",
+      "url": "Plugin/SimEngineSetup-1.0.5.exe",
+      "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads."
+    }
+  ]
 }
