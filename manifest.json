@@ -2,62 +2,206 @@
   "PE F499": {
     "bin": "F499/FW_SimEngine_v3.0.33_F499.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "F499/FW_SimEngine_v3.0.34-beta_F499.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "F499/FW_SimEngine_v3.0.33_F499.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE FGT": {
     "bin": "FGT/FW_SimEngine_v3.0.33_FGT.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.0.34-beta_FGT.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "FGT/FW_SimEngine_v3.0.33_FGT.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE GTB Pro": {
     "bin": "GTBPRO/FW_SimEngine_v3.0.33_GTBPRO.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.0.34-beta_GTBPRO.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.0.33_GTBPRO.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE GTE PRO V3": {
     "bin": "GTEPROV3/FW_SimEngine_v3.0.33_GTEPROV3.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.0.34-beta_GTEPROV3.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.0.33_GTEPROV3.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE HYP-R": {
     "bin": "HYPR/FW_SimEngine_v3.0.33_HYPR.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "HYPR/FW_SimEngine_v3.0.34-beta_HYPR.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "HYPR/FW_SimEngine_v3.0.33_HYPR.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE HYP-R PRO": {
     "bin": "HYPRPRO/FW_SimEngine_v3.0.33_HYPRPRO.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.0.34-beta_HYPRPRO.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.0.33_HYPRPRO.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE LMP PRO V2": {
     "bin": "LMPPROV2/FW_SimEngine_v3.0.33_LMPPROV2.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.0.34-beta_LMPPROV2.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.0.33_LMPPROV2.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE LMPH": {
     "bin": "LMPH/FW_SimEngine_v3.0.33_LMPH.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "LMPH/FW_SimEngine_v3.0.34-beta_LMPH.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "LMPH/FW_SimEngine_v3.0.33_LMPH.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE MCP ButtonBox": {
     "bin": "MCPBB/FW_SimEngine_v3.0.33_MCPBB.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.0.34-beta_MCPBB.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.0.33_MCPBB.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE MCP EncoderBox": {
     "bin": "MCPEB/FW_SimEngine_v3.0.33_MCPEB.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.0.34-beta_MCPEB.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.0.33_MCPEB.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE MCP IgnitionBox": {
     "bin": "MCPIB/FW_SimEngine_v3.0.33_MCPIB.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.0.34-beta_MCPIB.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.0.33_MCPIB.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE RALLY": {
     "bin": "RALLY/FW_SimEngine_v3.0.33_RALLY.bin",
     "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
-    "version": "3.0.33"
+    "version": "3.0.33",
+    "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.0.34-beta_RALLY.bin",
+        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
+        "version": "3.0.34-beta"
+      },
+      {
+        "bin": "RALLY/FW_SimEngine_v3.0.33_RALLY.bin",
+        "notes": "Fixes phantom button presses when position rotaries + multi-links exceed the 128-button report.",
+        "version": "3.0.33"
+      }
+    ]
   },
   "PE TGR-H": {
     "bin": "TGRH/FW_SimEngine_v3.0.33_TGRH.bin",
