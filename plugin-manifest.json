@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "Plugin/SimEngineSetup-1.0.1.exe",
-  "notes": "Fixes clutch calibration for short-throw paddles (small analog travel)."
+  "version": "1.0.3",
+  "url": "Plugin/SimEngineSetup-1.0.3.exe",
+  "notes": "Simplified clutch calibration (on-device min/max, Start/Finish); fixes a SimHub startup freeze."
 }
