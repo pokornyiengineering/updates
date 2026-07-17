@@ -17,9 +17,11 @@
 - Editable numeric entry boxes on every slider — type an exact value instead of dragging.
 - UI polish throughout: sectioned layout, per-tab scrolling, tidier fonts and spacing.
 - Wide input support: inputs exceeding the 128-input report limit can now be used within the plugin.
-- Smaller, faster firmware (link-time optimization) and O(1) input suppression, so heavy configurations no longer bog down the USB stream.
+- Smaller, faster firmware (link-time optimization) and O(1) input suppression, so heavy configurations no longer bog down the USB stream
+- Changelog viewer added
 
 ### Fixes
+- DFU driver issue fix (Guillemot driver conflict - WinUSB driver force-bind wit PEDfuRepair.exe)
 - Game changes no longer stall the plugin and dash.
 - Fixed device presence getting stuck in the plugin.
 - Fixed multi-link reassignments not reaching the device, and stale multi-link counts on reconnect.
