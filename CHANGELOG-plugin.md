@@ -1,4 +1,4 @@
-## v1.1.0-beta — 2026-07-17
+## v1.1.1-beta — 2026-07-17
 
 ### New features
 - Advanced target setting (auto-adjusts e.g. brake bias to a selected target): with latch, and press-to-override.

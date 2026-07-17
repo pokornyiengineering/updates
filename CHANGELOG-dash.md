@@ -1,4 +1,4 @@
-## v1.0.8 (early)
+## v1.0.9 (early)
 
 ### Improvements
 - Added idle screen.
