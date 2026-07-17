@@ -1,5 +1,3 @@
-# SimEngine Dash — Changelog
-
 ## v1.0.8 (early)
 
 ### Improvements

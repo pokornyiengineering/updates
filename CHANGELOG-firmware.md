@@ -1,5 +1,3 @@
-# SimEngine Firmware — Changelog
-
 ## v3.1.0-beta — 2026-07-17
 
 ### New features

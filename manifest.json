@@ -5,6 +5,11 @@
     "version": "3.0.36",
     "versions": [
       {
+        "bin": "F499/FW_SimEngine_v3.1.0-beta_F499.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
+      {
         "bin": "F499/FW_SimEngine_v3.0.36_F499.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
@@ -26,6 +31,11 @@
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.1.0-beta_FGT.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "FGT/FW_SimEngine_v3.0.36_FGT.bin",
         "notes": "Advanced target setting feature + flash save fix.",
@@ -49,6 +59,11 @@
     "version": "3.0.36",
     "versions": [
       {
+        "bin": "GTBPRO/FW_SimEngine_v3.1.0-beta_GTBPRO.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
+      {
         "bin": "GTBPRO/FW_SimEngine_v3.0.36_GTBPRO.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
@@ -70,6 +85,11 @@
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.1.0-beta_GTEPROV3.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.0.36_GTEPROV3.bin",
         "notes": "Advanced target setting feature + flash save fix.",
@@ -93,6 +113,11 @@
     "version": "3.0.36",
     "versions": [
       {
+        "bin": "HYPR/FW_SimEngine_v3.1.0-beta_HYPR.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
+      {
         "bin": "HYPR/FW_SimEngine_v3.0.36_HYPR.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
@@ -114,6 +139,11 @@
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.1.0-beta_HYPRPRO.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.0.36_HYPRPRO.bin",
         "notes": "Advanced target setting feature + flash save fix.",
@@ -137,6 +167,11 @@
     "version": "3.0.36",
     "versions": [
       {
+        "bin": "LMPPROV2/FW_SimEngine_v3.1.0-beta_LMPPROV2.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
+      {
         "bin": "LMPPROV2/FW_SimEngine_v3.0.36_LMPPROV2.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
@@ -158,6 +193,11 @@
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "LMPHV1ELMA/FW_SimEngine_v3.1.0-beta_LMPHV1ELMA.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "LMPH/FW_SimEngine_v3.0.36_LMPH.bin",
         "notes": "Advanced target setting feature + flash save fix.",
@@ -181,6 +221,11 @@
     "version": "3.0.36",
     "versions": [
       {
+        "bin": "MCPBB/FW_SimEngine_v3.1.0-beta_MCPBB.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
+      {
         "bin": "MCPBB/FW_SimEngine_v3.0.36_MCPBB.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
@@ -202,6 +247,11 @@
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.1.0-beta_MCPEB.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "MCPEB/FW_SimEngine_v3.0.36_MCPEB.bin",
         "notes": "Advanced target setting feature + flash save fix.",
@@ -225,6 +275,11 @@
     "version": "3.0.36",
     "versions": [
       {
+        "bin": "MCPIB/FW_SimEngine_v3.1.0-beta_MCPIB.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
+      {
         "bin": "MCPIB/FW_SimEngine_v3.0.36_MCPIB.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
@@ -241,11 +296,40 @@
       }
     ]
   },
+  "PE MCP MultiBox": {
+    "bin": "MCPMB/FW_SimEngine_v3.1.0-beta_MCPMB.bin",
+    "notes": "",
+    "version": "3.1.0-beta",
+    "versions": [
+      {
+        "bin": "MCPMB/FW_SimEngine_v3.1.0-beta_MCPMB.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      }
+    ]
+  },
+  "PE PGT": {
+    "bin": "PGT/FW_SimEngine_v3.1.0-beta_PGT.bin",
+    "notes": "",
+    "version": "3.1.0-beta",
+    "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.1.0-beta_PGT.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      }
+    ]
+  },
   "PE RALLY": {
     "bin": "RALLY/FW_SimEngine_v3.0.36_RALLY.bin",
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.1.0-beta_RALLY.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "RALLY/FW_SimEngine_v3.0.36_RALLY.bin",
         "notes": "Advanced target setting feature + flash save fix.",
@@ -268,6 +352,11 @@
     "notes": "Advanced target setting feature + flash save fix.",
     "version": "3.0.36",
     "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.1.0-beta_TGRH.bin",
+        "notes": "",
+        "version": "3.1.0-beta"
+      },
       {
         "bin": "TGRH/FW_SimEngine_v3.0.36_TGRH.bin",
         "notes": "Advanced target setting feature + flash save fix.",
