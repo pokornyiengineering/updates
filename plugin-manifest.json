@@ -6,7 +6,7 @@
     {
       "version": "1.1.1-beta",
       "url": "Plugin/SimEngineSetup-1.1.1-beta.exe",
-      "notes": "More reliable automatic USB driver repair: it now holds the correct WinUSB driver in place while Windows tries to re-attach the conflicting Thrustmaster/Guillemot driver, so firmware updates start reliably. Adds a 'view changelog' link in the Update tab."
+      "notes": "Advanced target setting; adjustable clutch and per-channel analog dead zones; multi-link active-layer output; versioned updates with rollback; raw/derived input streams for third-party use; automatic USB driver repair for the Thrustmaster/Guillemot update-mode conflict; in-plugin changelogs; plus stability fixes."
     },
     {
       "version": "1.0.8-beta",
