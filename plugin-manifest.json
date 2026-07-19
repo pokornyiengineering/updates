@@ -1,17 +1,22 @@
 {
-  "notes": "SimEngine plugin 1.1.2 stable — multi-link up to 20 layers + position-report budget fix.",
-  "url": "Plugin/SimEngineSetup-1.1.2.exe",
-  "version": "1.1.2",
+  "version": "1.0.5",
+  "url": "Plugin/SimEngineSetup-1.0.5.exe",
+  "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads.",
   "versions": [
     {
-      "notes": "SimEngine plugin 1.1.2 stable — multi-link up to 20 layers + position-report budget fix.",
-      "url": "Plugin/SimEngineSetup-1.1.2.exe",
-      "version": "1.1.2"
+      "version": "1.1.1-beta",
+      "url": "Plugin/SimEngineSetup-1.1.1-beta.exe",
+      "notes": "Advanced target setting; adjustable clutch and per-channel analog dead zones; multi-link active-layer output; versioned updates with rollback; raw/derived input streams for third-party use; automatic USB driver repair for the Thrustmaster/Guillemot update-mode conflict; in-plugin changelogs; plus stability fixes."
     },
     {
-      "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads.",
+      "version": "1.0.8-beta",
+      "url": "Plugin/SimEngineSetup-1.0.8-beta.exe",
+      "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target) + versioned updates (version dropdown, rollback, per-section beta channel). The advanced-target feature needs 3.0.34-beta firmware."
+    },
+    {
+      "version": "1.0.5",
       "url": "Plugin/SimEngineSetup-1.0.5.exe",
-      "version": "1.0.5"
+      "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads."
     }
   ]
 }

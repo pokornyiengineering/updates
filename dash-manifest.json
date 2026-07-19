@@ -1,17 +1,17 @@
 {
-  "notes": "PE SimEngine Dash 1.0.9 stable.",
-  "url": "Dash/PE-SimEngine-Dash-1.0.9.zip",
-  "version": "1.0.9",
+  "version": "1.0.5",
+  "url": "Dash/PE-SimEngine-Dash-1.0.5.zip",
+  "notes": "Update-flow test release.",
   "versions": [
     {
-      "notes": "PE SimEngine Dash 1.0.9 stable.",
-      "url": "Dash/PE-SimEngine-Dash-1.0.9.zip",
-      "version": "1.0.9"
+      "version": "1.0.9-beta",
+      "url": "Dash/PE-SimEngine-Dash-1.0.9-beta.zip",
+      "notes": "Added an idle screen and the Grayze Dynamics theme."
     },
     {
-      "notes": "Update-flow test release.",
+      "version": "1.0.5",
       "url": "Dash/PE-SimEngine-Dash-1.0.5.zip",
-      "version": "1.0.5"
+      "notes": "Update-flow test release."
     }
   ]
 }

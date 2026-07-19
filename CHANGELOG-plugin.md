@@ -1,4 +1,4 @@
-## v1.1.2 — 2026-07-20
+## v1.1.1-beta — 2026-07-17
 
 ### New features
 - Advanced target setting (auto-adjusts e.g. brake bias to a selected target): with latch, and press-to-override.
@@ -17,7 +17,6 @@
 - Wide input support: inputs exceeding the 128-input report limit can now be used within the plugin.
 - Smaller, faster firmware (link-time optimization) and O(1) input suppression, so heavy configurations no longer bog down the USB stream
 - Changelog viewer added
-- Multi-link layer limit raised to 20.
 
 ### Fixes
 - DFU driver issue fix (Guillemot driver conflict - WinUSB driver force-bind wit PEDfuRepair.exe)

@@ -1,4 +1,4 @@
-## v3.1.1 — 2026-07-20
+## v3.1.0-beta — 2026-07-17
 
 ### New features
 - Force-set of an input (used by Advanced target setting).
@@ -6,7 +6,6 @@
 - Instance-based advanced input feature.
 - Adjustable double-shift protection.
 - Added full 480-bit RAW and DERIVED streams.
-- Multi-link now supports up to 20 layers (previously 12).
 
 ### Fixes
 - ADC clock source.
