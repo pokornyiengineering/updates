@@ -1,23 +1,18 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.0.36_F499.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "F499/FW_SimEngine_v3.1.1_F499.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "F499/FW_SimEngine_v3.1.0-beta_F499.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "F499/FW_SimEngine_v3.1.1_F499.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "F499/FW_SimEngine_v3.0.36_F499.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "F499/FW_SimEngine_v3.0.34-beta_F499.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "F499/FW_SimEngine_v3.0.33_F499.bin",
@@ -27,24 +22,19 @@
     ]
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.0.36_FGT.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "FGT/FW_SimEngine_v3.1.1_FGT.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "FGT/FW_SimEngine_v3.1.0-beta_FGT.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "FGT/FW_SimEngine_v3.1.1_FGT.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "FGT/FW_SimEngine_v3.0.36_FGT.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "FGT/FW_SimEngine_v3.0.34-beta_FGT.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "FGT/FW_SimEngine_v3.0.33_FGT.bin",
@@ -54,24 +44,19 @@
     ]
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.0.36_GTBPRO.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "GTBPRO/FW_SimEngine_v3.1.1_GTBPRO.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "GTBPRO/FW_SimEngine_v3.1.0-beta_GTBPRO.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "GTBPRO/FW_SimEngine_v3.1.1_GTBPRO.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.0.36_GTBPRO.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "GTBPRO/FW_SimEngine_v3.0.34-beta_GTBPRO.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.0.33_GTBPRO.bin",
@@ -81,24 +66,19 @@
     ]
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.0.36_GTEPROV3.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "GTEPROV3/FW_SimEngine_v3.1.1_GTEPROV3.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "GTEPROV3/FW_SimEngine_v3.1.0-beta_GTEPROV3.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "GTEPROV3/FW_SimEngine_v3.1.1_GTEPROV3.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.0.36_GTEPROV3.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "GTEPROV3/FW_SimEngine_v3.0.34-beta_GTEPROV3.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.0.33_GTEPROV3.bin",
@@ -108,24 +88,19 @@
     ]
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.0.36_HYPR.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "HYPR/FW_SimEngine_v3.1.1_HYPR.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "HYPR/FW_SimEngine_v3.1.0-beta_HYPR.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "HYPR/FW_SimEngine_v3.1.1_HYPR.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "HYPR/FW_SimEngine_v3.0.36_HYPR.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "HYPR/FW_SimEngine_v3.0.34-beta_HYPR.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "HYPR/FW_SimEngine_v3.0.33_HYPR.bin",
@@ -135,24 +110,19 @@
     ]
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.0.36_HYPRPRO.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "HYPRPRO/FW_SimEngine_v3.1.1_HYPRPRO.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "HYPRPRO/FW_SimEngine_v3.1.0-beta_HYPRPRO.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "HYPRPRO/FW_SimEngine_v3.1.1_HYPRPRO.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.0.36_HYPRPRO.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "HYPRPRO/FW_SimEngine_v3.0.34-beta_HYPRPRO.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.0.33_HYPRPRO.bin",
@@ -162,24 +132,19 @@
     ]
   },
   "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.0.36_LMPPROV2.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "LMPPROV2/FW_SimEngine_v3.1.1_LMPPROV2.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "LMPPROV2/FW_SimEngine_v3.1.0-beta_LMPPROV2.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "LMPPROV2/FW_SimEngine_v3.1.1_LMPPROV2.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.0.36_LMPPROV2.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "LMPPROV2/FW_SimEngine_v3.0.34-beta_LMPPROV2.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.0.33_LMPPROV2.bin",
@@ -189,24 +154,19 @@
     ]
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.0.36_LMPH.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "LMPH/FW_SimEngine_v3.1.1_LMPH.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "LMPHV1ELMA/FW_SimEngine_v3.1.0-beta_LMPHV1ELMA.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "LMPH/FW_SimEngine_v3.1.1_LMPH.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "LMPH/FW_SimEngine_v3.0.36_LMPH.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "LMPH/FW_SimEngine_v3.0.34-beta_LMPH.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "LMPH/FW_SimEngine_v3.0.33_LMPH.bin",
@@ -216,24 +176,19 @@
     ]
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.0.36_MCPBB.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "MCPBB/FW_SimEngine_v3.1.1_MCPBB.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "MCPBB/FW_SimEngine_v3.1.0-beta_MCPBB.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "MCPBB/FW_SimEngine_v3.1.1_MCPBB.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "MCPBB/FW_SimEngine_v3.0.36_MCPBB.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "MCPBB/FW_SimEngine_v3.0.34-beta_MCPBB.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "MCPBB/FW_SimEngine_v3.0.33_MCPBB.bin",
@@ -243,24 +198,19 @@
     ]
   },
   "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.0.36_MCPEB.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "MCPEB/FW_SimEngine_v3.1.1_MCPEB.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "MCPEB/FW_SimEngine_v3.1.0-beta_MCPEB.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "MCPEB/FW_SimEngine_v3.1.1_MCPEB.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "MCPEB/FW_SimEngine_v3.0.36_MCPEB.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "MCPEB/FW_SimEngine_v3.0.34-beta_MCPEB.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "MCPEB/FW_SimEngine_v3.0.33_MCPEB.bin",
@@ -270,24 +220,19 @@
     ]
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.0.36_MCPIB.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "MCPIB/FW_SimEngine_v3.1.1_MCPIB.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "MCPIB/FW_SimEngine_v3.1.0-beta_MCPIB.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "MCPIB/FW_SimEngine_v3.1.1_MCPIB.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "MCPIB/FW_SimEngine_v3.0.36_MCPIB.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "MCPIB/FW_SimEngine_v3.0.34-beta_MCPIB.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "MCPIB/FW_SimEngine_v3.0.33_MCPIB.bin",
@@ -297,48 +242,43 @@
     ]
   },
   "PE MCP MultiBox": {
-    "bin": "MCPMB/FW_SimEngine_v3.1.0-beta_MCPMB.bin",
-    "notes": "",
-    "version": "3.1.0-beta",
+    "bin": "MCPMB/FW_SimEngine_v3.1.1_MCPMB.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "MCPMB/FW_SimEngine_v3.1.0-beta_MCPMB.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "MCPMB/FW_SimEngine_v3.1.1_MCPMB.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       }
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.1.0-beta_PGT.bin",
-    "notes": "",
-    "version": "3.1.0-beta",
+    "bin": "PGT/FW_SimEngine_v3.1.1_PGT.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "PGT/FW_SimEngine_v3.1.0-beta_PGT.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "PGT/FW_SimEngine_v3.1.1_PGT.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       }
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.0.36_RALLY.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "RALLY/FW_SimEngine_v3.1.1_RALLY.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "RALLY/FW_SimEngine_v3.1.0-beta_RALLY.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "RALLY/FW_SimEngine_v3.1.1_RALLY.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "RALLY/FW_SimEngine_v3.0.36_RALLY.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "RALLY/FW_SimEngine_v3.0.34-beta_RALLY.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "RALLY/FW_SimEngine_v3.0.33_RALLY.bin",
@@ -348,24 +288,19 @@
     ]
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.0.36_TGRH.bin",
-    "notes": "Advanced target setting feature + flash save fix.",
-    "version": "3.0.36",
+    "bin": "TGRH/FW_SimEngine_v3.1.1_TGRH.bin",
+    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+    "version": "3.1.1",
     "versions": [
       {
-        "bin": "TGRH/FW_SimEngine_v3.1.0-beta_TGRH.bin",
-        "notes": "",
-        "version": "3.1.0-beta"
+        "bin": "TGRH/FW_SimEngine_v3.1.1_TGRH.bin",
+        "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
+        "version": "3.1.1"
       },
       {
         "bin": "TGRH/FW_SimEngine_v3.0.36_TGRH.bin",
         "notes": "Advanced target setting feature + flash save fix.",
         "version": "3.0.36"
-      },
-      {
-        "bin": "TGRH/FW_SimEngine_v3.0.34-beta_TGRH.bin",
-        "notes": "Beta: advanced target setting (auto-adjust an in-game setting to a target value via assignable increase/decrease inputs and a trigger button).",
-        "version": "3.0.34-beta"
       },
       {
         "bin": "TGRH/FW_SimEngine_v3.0.33_TGRH.bin",
