@@ -1,3 +1,9 @@
+## v3.1.2 — 2026-07-20
+
+### Fixes
+- Multi-link one-hot position report fix
+
+
 ## v3.1.1 — 2026-07-20
 
 ### New features

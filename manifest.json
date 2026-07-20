@@ -1,9 +1,14 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.1.1_F499.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "F499/FW_SimEngine_v3.1.2_F499.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "F499/FW_SimEngine_v3.1.2_F499.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "F499/FW_SimEngine_v3.1.1_F499.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -22,10 +27,15 @@
     ]
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.1.1_FGT.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "FGT/FW_SimEngine_v3.1.2_FGT.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.1.2_FGT.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "FGT/FW_SimEngine_v3.1.1_FGT.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -44,10 +54,15 @@
     ]
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.1.1_GTBPRO.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "GTBPRO/FW_SimEngine_v3.1.2_GTBPRO.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.1.2_GTBPRO.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.1.1_GTBPRO.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -66,10 +81,15 @@
     ]
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.1.1_GTEPROV3.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "GTEPROV3/FW_SimEngine_v3.1.2_GTEPROV3.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.1.2_GTEPROV3.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.1.1_GTEPROV3.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -88,10 +108,15 @@
     ]
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.1.1_HYPR.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "HYPR/FW_SimEngine_v3.1.2_HYPR.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "HYPR/FW_SimEngine_v3.1.2_HYPR.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "HYPR/FW_SimEngine_v3.1.1_HYPR.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -110,10 +135,15 @@
     ]
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.1.1_HYPRPRO.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "HYPRPRO/FW_SimEngine_v3.1.2_HYPRPRO.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.1.2_HYPRPRO.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.1.1_HYPRPRO.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -132,10 +162,15 @@
     ]
   },
   "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.1.1_LMPPROV2.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "LMPPROV2/FW_SimEngine_v3.1.2_LMPPROV2.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.1.2_LMPPROV2.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.1.1_LMPPROV2.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -154,10 +189,15 @@
     ]
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.1.1_LMPH.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "LMPH/FW_SimEngine_v3.1.2_LMPH.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "LMPH/FW_SimEngine_v3.1.2_LMPH.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "LMPH/FW_SimEngine_v3.1.1_LMPH.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -176,10 +216,15 @@
     ]
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.1.1_MCPBB.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "MCPBB/FW_SimEngine_v3.1.2_MCPBB.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.1.2_MCPBB.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "MCPBB/FW_SimEngine_v3.1.1_MCPBB.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -198,10 +243,15 @@
     ]
   },
   "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.1.1_MCPEB.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "MCPEB/FW_SimEngine_v3.1.2_MCPEB.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.1.2_MCPEB.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "MCPEB/FW_SimEngine_v3.1.1_MCPEB.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -220,10 +270,15 @@
     ]
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.1.1_MCPIB.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "MCPIB/FW_SimEngine_v3.1.2_MCPIB.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.1.2_MCPIB.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "MCPIB/FW_SimEngine_v3.1.1_MCPIB.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -242,10 +297,15 @@
     ]
   },
   "PE MCP MultiBox": {
-    "bin": "MCPMB/FW_SimEngine_v3.1.1_MCPMB.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "MCPMB/FW_SimEngine_v3.1.2_MCPMB.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPMB/FW_SimEngine_v3.1.2_MCPMB.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "MCPMB/FW_SimEngine_v3.1.1_MCPMB.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -254,10 +314,15 @@
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.1.1_PGT.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "PGT/FW_SimEngine_v3.1.2_PGT.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.1.2_PGT.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.1.1_PGT.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -266,10 +331,15 @@
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.1.1_RALLY.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "RALLY/FW_SimEngine_v3.1.2_RALLY.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.1.2_RALLY.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "RALLY/FW_SimEngine_v3.1.1_RALLY.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
@@ -288,10 +358,15 @@
     ]
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.1.1_TGRH.bin",
-    "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
-    "version": "3.1.1",
+    "bin": "TGRH/FW_SimEngine_v3.1.2_TGRH.bin",
+    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+    "version": "3.1.2",
     "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.1.2_TGRH.bin",
+        "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
+        "version": "3.1.2"
+      },
       {
         "bin": "TGRH/FW_SimEngine_v3.1.1_TGRH.bin",
         "notes": "SimEngine 3.1.1 stable — multi-link supports up to 20 layers.",
