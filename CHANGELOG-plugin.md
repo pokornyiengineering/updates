@@ -1,3 +1,11 @@
+## v1.1.3 (beta) — 2026-07-31
+
+### Fixes
+- Clutch bite point no longer resets to 0 after a power cycle in combined dual clutch. The plugin was reading and caching a mode-gated 0 from the device during (re)connect, and a later Save then persisted it; the bite value is now read from the per-preset data that is always valid.
+
+### Improvements
+- Update checks now run once at startup instead of repeatedly. Each section (firmware / plugin / dash) has a "refresh" link on the Update tab to re-check on demand. This also stops the version-check log spam.
+
 ## v1.1.2 — 2026-07-20
 
 ### New features
