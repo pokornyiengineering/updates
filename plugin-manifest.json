@@ -6,12 +6,7 @@
     {
       "version": "1.1.5-beta",
       "url": "Plugin/SimEngineSetup-1.1.5-beta.exe",
-      "notes": "1.1.5 beta - fixes the clutch bite point briefly being pushed to 0 when the wheel connects just after SimHub (or reconnects/power-cycles), which left one clutch paddle inactive in master-slave mode. Plugin now waits for a real read before sending, and backs off after a failed send. Includes the opt-in diagnostic logging from 1.1.4."
-    },
-    {
-      "version": "1.1.4-beta",
-      "url": "Plugin/SimEngineSetup-1.1.4-beta.exe",
-      "notes": "1.1.4 beta - diagnostic build for the dual-clutch 'one clutch dead' investigation. Adds opt-in logging (SimEnginePlugin.config DiagLog=true) of full clutch state + every clutch write to the SimHub log. No behaviour change vs 1.1.3; logging stays off unless explicitly enabled."
+      "notes": "1.1.5 beta - fixes the clutch bite point briefly being pushed to 0 when the wheel connects just after SimHub (or reconnects/power-cycles), which left one clutch paddle inactive in master-slave mode. Plugin now waits for a real read before sending, and backs off after a failed send. Includes opt-in diagnostic logging (off unless enabled)."
     },
     {
       "version": "1.1.3-beta",

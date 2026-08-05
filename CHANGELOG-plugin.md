@@ -3,10 +3,8 @@
 ### Fixes
 - Fixed a clutch bite-point problem: if the wheel finished connecting a moment after SimHub started (or after a reconnect / power cycle), the plugin could briefly push a bite point of 0 to the wheel before it had read the real value. In master-slave clutch mode that left one clutch paddle inactive ("one clutch not working"), and saving could make it stick. The plugin now waits until it has read the real value from the wheel before sending, and backs off after a failed send instead of retrying continuously.
 
-## v1.1.4 (beta) — 2026-08-05
-
 ### Diagnostics
-- Adds optional diagnostic logging to help investigate a reported dual-clutch issue (one clutch paddle becoming inactive). Logging is off by default and only writes to the SimHub log when explicitly enabled — there is no change to how the plugin or the clutch behaves compared to 1.1.3.
+- Added optional diagnostic logging (off by default) to help investigate clutch issues. It only writes to the SimHub log when explicitly enabled and does not change how the plugin or the clutch behaves.
 
 ## v1.1.3 (beta) — 2026-07-31
 
