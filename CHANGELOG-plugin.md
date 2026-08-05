@@ -1,3 +1,8 @@
+## v1.1.4 (beta) — 2026-08-05
+
+### Diagnostics
+- Adds optional diagnostic logging to help investigate a reported dual-clutch issue (one clutch paddle becoming inactive). Logging is off by default and only writes to the SimHub log when explicitly enabled — there is no change to how the plugin or the clutch behaves compared to 1.1.3.
+
 ## v1.1.3 (beta) — 2026-07-31
 
 ### Fixes
