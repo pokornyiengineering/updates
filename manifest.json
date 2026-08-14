@@ -314,10 +314,15 @@
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.1.2_PGT.bin",
-    "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
-    "version": "3.1.2",
+    "bin": "PGT/FW_SimEngine_v3.1.8_PGT.bin",
+    "notes": "SimEngine 3.1.8 — full feature parity for PGT: launch control, brake magic & hold, split-pedal clutch axes, bite-point adjust, advanced buttons, mouse emulation, and a 4th analog axis. Includes the improved encoder detent decoder (1:1 side & funky rotaries) and USB input-endpoint stall recovery.",
+    "version": "3.1.8",
     "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.1.8_PGT.bin",
+        "notes": "SimEngine 3.1.8 — full feature parity for PGT: launch control, brake magic & hold, split-pedal clutch axes, bite-point adjust, advanced buttons, mouse emulation, and a 4th analog axis. Includes the improved encoder detent decoder (1:1 side & funky rotaries) and USB input-endpoint stall recovery.",
+        "version": "3.1.8"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.1.2_PGT.bin",
         "notes": "SimEngine 3.1.2 — multi-link layer one-hot report now sized to the layer count.",
