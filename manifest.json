@@ -314,10 +314,15 @@
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.1.8_PGT.bin",
-    "notes": "SimEngine 3.1.8 — full feature parity for PGT: launch control, brake magic & hold, split-pedal clutch axes, bite-point adjust, advanced buttons, mouse emulation, and a 4th analog axis. Includes the improved encoder detent decoder (1:1 side & funky rotaries) and USB input-endpoint stall recovery.",
-    "version": "3.1.8",
+    "bin": "PGT/FW_SimEngine_v3.1.10_PGT.bin",
+    "notes": "SimEngine 3.1.10 — RS16A absolute rotaries relabeled by +6 (mod 12): physical detent 1 now reports position 7, 7 reports 1, etc. Offset applied at the decode source so the plugin position number, game position one-hot, and multi-link slot all match.",
+    "version": "3.1.10",
     "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.1.10_PGT.bin",
+        "notes": "SimEngine 3.1.10 — RS16A absolute rotaries relabeled by +6 (mod 12): physical detent 1 now reports position 7, 7 reports 1, etc. Offset applied at the decode source so the plugin position number, game position one-hot, and multi-link slot all match.",
+        "version": "3.1.10"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.1.8_PGT.bin",
         "notes": "SimEngine 3.1.8 — full feature parity for PGT: launch control, brake magic & hold, split-pedal clutch axes, bite-point adjust, advanced buttons, mouse emulation, and a 4th analog axis. Includes the improved encoder detent decoder (1:1 side & funky rotaries) and USB input-endpoint stall recovery.",
