@@ -1,8 +1,13 @@
 {
-  "version": "1.1.2",
-  "url": "Plugin/SimEngineSetup-1.1.2.exe",
-  "notes": "SimEngine plugin 1.1.2 stable — multi-link up to 20 layers + position-report budget fix.",
+  "version": "1.1.5",
+  "url": "Plugin/SimEngineSetup-1.1.5.exe",
+  "notes": "SimEngine plugin 1.1.5 stable — fixes the clutch bite point briefly resetting to 0 when the wheel connects just after SimHub (or reconnects/power-cycles), which could leave one clutch paddle inactive in master-slave mode. The plugin now waits until it has read the real value before sending, and backs off after a failed send. Includes opt-in diagnostic logging (off unless enabled).",
   "versions": [
+    {
+      "version": "1.1.5",
+      "url": "Plugin/SimEngineSetup-1.1.5.exe",
+      "notes": "SimEngine plugin 1.1.5 stable — fixes the clutch bite point briefly resetting to 0 when the wheel connects just after SimHub (or reconnects/power-cycles), which could leave one clutch paddle inactive in master-slave mode. The plugin now waits until it has read the real value before sending, and backs off after a failed send. Includes opt-in diagnostic logging (off unless enabled)."
+    },
     {
       "version": "1.1.5-beta",
       "url": "Plugin/SimEngineSetup-1.1.5-beta.exe",
