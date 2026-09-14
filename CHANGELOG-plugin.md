@@ -1,3 +1,36 @@
+## v1.2.1 — 2026-09-14
+
+*LED Control needs firmware 3.2.0 or newer. On older firmware the tab warns you and stays limited.*
+
+### New features
+
+- **LED Control tab.** Configure the LEDs from a picture of the wheel itself: click a button, a
+  rotary or the whole wheel and give it effect layers. The render shows what the wheel will do.
+- **Effects.** Static colour (whole element or per LED), button press, rotary position, rotary
+  rotation, value display, level bar and status indicators. Stack them as layers, drag them into
+  the order you want, switch any of them off on its own.
+- **Themes.** Base lighting from Vector, Endurance, Redline, Arctic, Miami or Slipstream, or build
+  your own in the theme editor with gradient stops and per-element colours. Effects can follow the
+  theme's colours instead of carrying their own.
+- **Global effects.** One effect across a group of elements — flags, pit limiter, headlights,
+  wipers — configured once and kept in step.
+- **Animations.** Whole-wheel Idle, Engine start and Pit limiter sequences, each with its own
+  preview button.
+- **Brightness.** A master level per device, plus per-group levels.
+- **Presets.** Save as many named LED configurations per wheel as you like and switch between them
+  from a dropdown. Export and import them as `.peledpreset` files to share a setup. Your wheel now
+  ships with a designed default rather than a bare skeleton.
+- **Profile control.** Instead of driving the wheel over USB, the plugin can publish the colours it
+  would have sent and let a SimHub LED profile light the wheel from them. Use *Configure → Export
+  LED profile* to generate the profile, then load it in SimHub under the device's LEDs page with
+  the individual-LED profile mode set to Combined. Direct control over USB stays the default.
+- **Layout variants.** A wheel authored in more than one form (PGT Vector and PGT Limited) offers a
+  Layout picker, and the render follows your choice.
+- The whole tab works with the wheel unplugged — layouts, themes and presets can all be edited
+  offline.
+- The **PGT** now shows its own picture on the firmware update card instead of the generic image.
+
+
 ## v1.1.5 — 2026-08-24
 
 ### Fixes

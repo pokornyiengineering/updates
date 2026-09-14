@@ -1,8 +1,13 @@
 {
-  "version": "1.1.5",
-  "url": "Plugin/SimEngineSetup-1.1.5.exe",
-  "notes": "Fixes a clutch bite point of 0 on connect, which could leave one paddle inactive.",
+  "version": "1.2.1",
+  "url": "Plugin/SimEngineSetup-1.2.1.exe",
+  "notes": "New LED Control tab: effects, themes, presets and SimHub profile export.",
   "versions": [
+    {
+      "version": "1.2.1",
+      "url": "Plugin/SimEngineSetup-1.2.1.exe",
+      "notes": "New LED Control tab: effects, themes, presets and SimHub profile export."
+    },
     {
       "version": "1.1.5",
       "url": "Plugin/SimEngineSetup-1.1.5.exe",
