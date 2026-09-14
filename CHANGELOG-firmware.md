@@ -1,3 +1,41 @@
+## v3.2.1 — 2026-09-14
+
+*PGT only. Other wheels remain on 3.1.2.*
+
+### New features
+- Multi-link raised from 1 to 4 instances, each supporting up to 20 layers.
+
+### Fixes
+- Restores the mouse-mode scroll wheel and the 4th pedal axis (Slider = bite point), both of
+  which were present in 3.1.10 but missing from the unreleased 3.2.0 build.
+
+Everything from 3.1.8 and 3.1.10 is retained unchanged: launch control, brake magic & hold,
+split-pedal clutch axes, bite-point adjust, advanced buttons, mouse emulation, and the RS16A
+position relabel. Coming from 3.1.10, the only behavioural change is multi-link.
+
+
+## v3.1.10 — 2026-08-15
+
+*PGT only.*
+
+### Fixes
+- RS16A absolute rotaries relabelled by +6 (mod 12): physical detent 1 now reports position 7,
+  7 reports 1, and so on. Applied at the decode source, so the plugin position number, the game
+  position one-hot and the multi-link slot all agree.
+
+
+## v3.1.8 — 2026-08-14
+
+*PGT only.*
+
+### New features
+- Full feature parity for PGT: launch control, brake magic & hold, split-pedal clutch axes,
+  bite-point adjust, advanced buttons, mouse emulation, and a 4th analog axis.
+- Improved encoder detent decoder (1:1 side & funky rotaries).
+
+### Fixes
+- USB input-endpoint stall recovery.
+
 ## v3.1.2 — 2026-07-20
 
 ### Fixes
