@@ -1,25 +1,25 @@
 {
   "version": "1.1.5",
   "url": "Plugin/SimEngineSetup-1.1.5.exe",
-  "notes": "SimEngine plugin 1.1.5 stable — fixes the clutch bite point briefly resetting to 0 when the wheel connects just after SimHub (or reconnects/power-cycles), which could leave one clutch paddle inactive in master-slave mode. The plugin now waits until it has read the real value before sending, and backs off after a failed send. Includes opt-in diagnostic logging (off unless enabled).",
+  "notes": "Fixes a clutch bite point of 0 on connect, which could leave one paddle inactive.",
   "versions": [
     {
       "version": "1.1.5",
       "url": "Plugin/SimEngineSetup-1.1.5.exe",
-      "notes": "SimEngine plugin 1.1.5 stable — fixes the clutch bite point briefly resetting to 0 when the wheel connects just after SimHub (or reconnects/power-cycles), which could leave one clutch paddle inactive in master-slave mode. The plugin now waits until it has read the real value before sending, and backs off after a failed send. Includes opt-in diagnostic logging (off unless enabled)."
+      "notes": "Fixes a clutch bite point of 0 on connect, which could leave one paddle inactive."
     },
     {
       "version": "1.1.3-beta",
       "url": "Plugin/SimEngineSetup-1.1.3-beta.exe",
-      "notes": "1.1.3 beta — fixes the clutch bite point resetting to 0 after a power cycle in combined dual clutch; update checks now run once at startup with per-section Refresh buttons on the Update tab (no more version-check log spam)."
+      "notes": "Fixes the clutch bite point resetting to 0 after a power cycle. Pre-release."
     },
     {
-      "notes": "SimEngine plugin 1.1.2 stable — multi-link up to 20 layers + position-report budget fix.",
+      "notes": "Multi-link up to 20 layers, plus a position-report budget fix.",
       "url": "Plugin/SimEngineSetup-1.1.2.exe",
       "version": "1.1.2"
     },
     {
-      "notes": "Fixes multi-device USB lockups (leaked pollers + enumeration stall), safer preset import, and rejects corrupt/incomplete firmware downloads.",
+      "notes": "Fixes multi-device USB lockups, safer preset import, rejects corrupt firmware downloads.",
       "url": "Plugin/SimEngineSetup-1.0.5.exe",
       "version": "1.0.5"
     }

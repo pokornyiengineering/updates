@@ -36,6 +36,18 @@ position relabel. Coming from 3.1.10, the only behavioural change is multi-link.
 ### Fixes
 - USB input-endpoint stall recovery.
 
+## v3.1.7-beta — 2026-08-22
+
+*Pre-release, all wheels.*
+
+### New features
+- Plugin-exclusive LED RGB commands.
+
+### Fixes
+- USB HID input-endpoint stall auto-recovery: the wheel detects a wedged input endpoint and
+  re-enumerates itself instead of going silent until a replug.
+- Improved encoder detent decoder — fixes skipped detents on side and funky rotaries.
+
 ## v3.1.2 — 2026-07-20
 
 ### Fixes
@@ -66,6 +78,12 @@ position relabel. Coming from 3.1.10, the only behavioural change is multi-link.
 
 ### Fixes
 - Fixed analog calibration (smart calibration reverted to standard method).
+
+## v3.0.33 — 2026-07-11
+
+### Fixes
+- Fixes phantom button presses when position rotaries and multi-links together exceed the
+  128-button report.
 
 ## v3.0.31 — 2026-07-10
 - Initial SimEngine 3 release.
