@@ -1,3 +1,11 @@
+## v3.2.3 — 2026-09-15
+
+*RALLY only.*
+
+### Fixes
+- Mouse mode moved the cursor left when you pushed right, and right when you pushed left.
+
+
 ## v3.2.2 — 2026-09-15
 
 *PGT only.*

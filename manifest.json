@@ -394,10 +394,17 @@
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.1.2_RALLY.bin",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "RALLY/FW_SimEngine_v3.2.3_RALLY.bin",
+    "commit": "06bf222aa16c9c48ae5e042573289cfcd41ff421",
+    "notes": "Mouse mode left and right no longer swapped. Also brings every change since 3.1.2.",
+    "version": "3.2.3",
     "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.2.3_RALLY.bin",
+        "commit": "06bf222aa16c9c48ae5e042573289cfcd41ff421",
+        "notes": "Mouse mode left and right no longer swapped. Also brings every change since 3.1.2.",
+        "version": "3.2.3"
+      },
       {
         "bin": "RALLY/FW_SimEngine_v3.1.7-beta_RALLY.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
