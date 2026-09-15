@@ -1,3 +1,49 @@
+## v1.2.2 — 2026-09-15
+
+### New features
+
+- **Multi-link layer colours now show up on the elements they light.** Until now they could only be
+  set up in the "Multi-link effects" section, and the rotary or the buttons a multi-link actually
+  lights gave no sign of being part of one. The same row now appears in each of those elements'
+  effect lists, and editing it in either place changes the one setting — there is no second copy to
+  keep in step.
+- **A multi-link can be ordered against an element's other effects.** It used to paint underneath
+  everything, always, whatever the list said. Now it takes its place in that element's own layer
+  order, so it can sit above the effects on the rotary that selects the layer and below them on a
+  button it only tints — dragged by the same handle as any other row.
+- **Taking a multi-link off an element is no longer a one-way door.** Switching a role off leaves
+  the row where it is so you can switch it back on; deleting it removes it from that element alone,
+  and you can bring it back from the top of any layer row's effect dropdown.
+
+### Fixes
+
+- **Firmware updates no longer hang part-way.** If a USB transfer stalled, the update simply sat
+  there: the progress bar froze where it was, and the wheel could be left half-written — coming
+  back reporting that it has no firmware. The flash is now bounded (two minutes of silence, ten
+  minutes in total) and a stalled transfer is stopped instead of waited on forever. A stuck update
+  also used to switch off LED control, device presence and every settings write for the rest of the
+  SimHub session; that no longer happens.
+- **A failed update now tells you what to do next.** It says whether the wheel is still in update
+  mode (run it again) or has dropped off the bus (unplug it and start over), and it no longer
+  retries the flash on a wheel that has already disappeared.
+- **Several LED Control panels no longer go stale.** Dropdowns and switches could keep showing an
+  old value after the panel refreshed underneath them.
+- **Custom themes: the side and front encoders (S1, S2, F1, F2) can no longer be given a colour.**
+  They own no LEDs of their own, so colouring one actually repainted the button LEDs — on the wheel
+  it looked like the buttons changing colour by themselves. Buttons b1–b10 and all four RS16A
+  rotaries are unaffected.
+
+### Improvements
+
+- **Much quieter logging.** With an advanced target mapped, the plugin wrote a trigger-poll line to
+  SimHub's log every two seconds, forever; firmware updates wrote every line of the transfer even
+  when they succeeded. Neither happens during normal use any more.
+- **A failed firmware update writes a single report file** to your own AppData folder — wheel,
+  USB id, previous and target firmware, the image it was fetching and the full transcript with
+  timestamps — and the dialog tells you where it is. Sending that one file is now enough to
+  diagnose a failed flash.
+
+
 ## v1.2.1 — 2026-09-14
 
 *LED Control needs firmware 3.2.0 or newer. On older firmware the tab warns you and stays limited.*
@@ -34,7 +80,9 @@
 ## v1.1.5 — 2026-08-24
 
 ### Fixes
-- Fixed a clutch bite-point problem: if the wheel finished connecting a moment after SimHub started (or after a reconnect / power cycle), the plugin could briefly push a bite point of 0 to the wheel before it had read the real value. In master-slave clutch mode that left one clutch paddle inactive ("one clutch not working"), and saving could make it stick. The plugin now waits until it has read the real value from the wheel before sending, and backs off after a failed send instead of retrying continuously.
+- Fixed a clutch bite-point problem: if the wheel finished connecting a moment after SimHub started (or after a reconnect / power cycle), 
+the plugin could briefly push a bite point of 0 to the wheel before it had read the real value. In master-slave clutch mode that left one clutch paddle inactive ("one clutch not working"),
+and saving could make it stick. The plugin now waits until it has read the real value from the wheel before sending, and backs off after a failed send instead of retrying continuously.
 
 ### Diagnostics
 - Added optional diagnostic logging (off by default) to help investigate clutch issues. It only writes to the SimHub log when explicitly enabled and does not change how the plugin or the clutch behaves.
@@ -42,7 +90,8 @@
 ## v1.1.3 (beta) — 2026-07-31
 
 ### Fixes
-- Clutch bite point no longer resets to 0 after a power cycle in combined dual clutch. The plugin was reading and caching a mode-gated 0 from the device during (re)connect, and a later Save then persisted it; the bite value is now read from the per-preset data that is always valid.
+- Clutch bite point no longer resets to 0 after a power cycle in combined dual clutch. The plugin was reading and caching a mode-gated 0 from the device during (re)connect, and a later Save then persisted it; 
+the bite value is now read from the per-preset data that is always valid.
 
 ### Improvements
 - Update checks now run once at startup instead of repeatedly. Each section (firmware / plugin / dash) has a "refresh" link on the Update tab to re-check on demand. This also stops the version-check log spam.

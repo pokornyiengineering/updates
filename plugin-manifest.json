@@ -1,8 +1,14 @@
 {
-  "version": "1.2.1",
-  "url": "Plugin/SimEngineSetup-1.2.1.exe",
-  "notes": "New LED Control tab: effects, themes, presets and SimHub profile export.",
+  "version": "1.2.2",
+  "url": "Plugin/SimEngineSetup-1.2.2.exe",
+  "notes": "Multi-link colours on the elements they light, and a fix for firmware updates hanging part-way.",
   "versions": [
+    {
+      "version": "1.2.2",
+      "url": "Plugin/SimEngineSetup-1.2.2.exe",
+      "notes": "Multi-link colours on the elements they light, and a fix for firmware updates hanging part-way.",
+      "commit": "eba56f97ee6f524dc9f9eb64dee613736404b702"
+    },
     {
       "version": "1.2.1",
       "url": "Plugin/SimEngineSetup-1.2.1.exe",
