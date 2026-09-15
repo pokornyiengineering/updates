@@ -1,3 +1,12 @@
+## v3.2.2 — 2026-09-15
+
+*PGT only.*
+
+### Fixes
+- Rotaries 7 and 8 reported their absolute position half a turn off. The 3.1.10 mounting
+  relabel is now set per rotary instead of device-wide.
+
+
 ## v3.2.1 — 2026-09-14
 
 *PGT only. Other wheels remain on 3.1.2.*

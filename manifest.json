@@ -354,11 +354,17 @@
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.2.1_PGT.bin",
-    "commit": "0476e52dfa21d66e4589ef7d0776566e4fe124e3",
-    "notes": "PGT: multi-link raised from 1 to 4 instances, each up to 20 layers.",
-    "version": "3.2.1",
+    "bin": "PGT/FW_SimEngine_v3.2.2_PGT.bin",
+    "commit": "089e535a7b7bc3a8c4ff636ccf47c240cd117810",
+    "notes": "PGT: rotaries 7 and 8 report the correct absolute position again.",
+    "version": "3.2.2",
     "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.2.2_PGT.bin",
+        "commit": "089e535a7b7bc3a8c4ff636ccf47c240cd117810",
+        "notes": "PGT: rotaries 7 and 8 report the correct absolute position again.",
+        "version": "3.2.2"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.2.1_PGT.bin",
         "commit": "0476e52dfa21d66e4589ef7d0776566e4fe124e3",
