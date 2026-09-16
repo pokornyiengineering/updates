@@ -1,9 +1,16 @@
 {
   "PE F499": {
     "bin": "F499/FW_SimEngine_v3.1.2_F499.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "F499/FW_SimEngine_v3.2.3-beta_F499.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "F499/FW_SimEngine_v3.1.7-beta_F499.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -33,9 +40,16 @@
   },
   "PE FGT": {
     "bin": "FGT/FW_SimEngine_v3.1.2_FGT.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.2.3-beta_FGT.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "FGT/FW_SimEngine_v3.1.7-beta_FGT.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -65,9 +79,16 @@
   },
   "PE GTB Pro": {
     "bin": "GTBPRO/FW_SimEngine_v3.1.2_GTBPRO.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.2.3-beta_GTBPRO.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.1.7-beta_GTBPRO.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -97,9 +118,16 @@
   },
   "PE GTE PRO V3": {
     "bin": "GTEPROV3/FW_SimEngine_v3.1.2_GTEPROV3.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.2.3-beta_GTEPROV3.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.1.7-beta_GTEPROV3.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -129,9 +157,16 @@
   },
   "PE HYP-R": {
     "bin": "HYPR/FW_SimEngine_v3.1.2_HYPR.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "HYPR/FW_SimEngine_v3.2.3-beta_HYPR.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "HYPR/FW_SimEngine_v3.1.7-beta_HYPR.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -161,9 +196,16 @@
   },
   "PE HYP-R PRO": {
     "bin": "HYPRPRO/FW_SimEngine_v3.1.2_HYPRPRO.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.2.3-beta_HYPRPRO.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.1.7-beta_HYPRPRO.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -193,9 +235,16 @@
   },
   "PE LMP PRO V2": {
     "bin": "LMPPROV2/FW_SimEngine_v3.1.2_LMPPROV2.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.2.3-beta_LMPPROV2.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.1.7-beta_LMPPROV2.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -225,9 +274,16 @@
   },
   "PE LMPH": {
     "bin": "LMPH/FW_SimEngine_v3.1.2_LMPH.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "LMPH/FW_SimEngine_v3.2.3-beta_LMPH.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "LMPH/FW_SimEngine_v3.1.7-beta_LMPH.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",
@@ -257,9 +313,16 @@
   },
   "PE MCP ButtonBox": {
     "bin": "MCPBB/FW_SimEngine_v3.1.2_MCPBB.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.2.3-beta_MCPBB.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "MCPBB/FW_SimEngine_v3.1.2_MCPBB.bin",
         "notes": "Multi-link layer reporting now matches the number of layers you set.",
@@ -284,9 +347,16 @@
   },
   "PE MCP EncoderBox": {
     "bin": "MCPEB/FW_SimEngine_v3.1.2_MCPEB.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.2.3-beta_MCPEB.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "MCPEB/FW_SimEngine_v3.1.2_MCPEB.bin",
         "notes": "Multi-link layer reporting now matches the number of layers you set.",
@@ -311,9 +381,16 @@
   },
   "PE MCP IgnitionBox": {
     "bin": "MCPIB/FW_SimEngine_v3.1.2_MCPIB.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.2.3-beta_MCPIB.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "MCPIB/FW_SimEngine_v3.1.2_MCPIB.bin",
         "notes": "Multi-link layer reporting now matches the number of layers you set.",
@@ -338,9 +415,16 @@
   },
   "PE MCP MultiBox": {
     "bin": "MCPMB/FW_SimEngine_v3.1.2_MCPMB.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "MCPMB/FW_SimEngine_v3.2.3-beta_MCPMB.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "MCPMB/FW_SimEngine_v3.1.2_MCPMB.bin",
         "notes": "Multi-link layer reporting now matches the number of layers you set.",
@@ -359,6 +443,12 @@
     "notes": "PGT: rotaries 7 and 8 report the correct absolute position again.",
     "version": "3.2.2",
     "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.2.3-beta_PGT.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.2.2_PGT.bin",
         "commit": "089e535a7b7bc3a8c4ff636ccf47c240cd117810",
@@ -434,9 +524,16 @@
   },
   "PE TGR-H": {
     "bin": "TGRH/FW_SimEngine_v3.1.2_TGRH.bin",
+    "commit": "",
     "notes": "Multi-link layer reporting now matches the number of layers you set.",
     "version": "3.1.2",
     "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.2.3-beta_TGRH.bin",
+        "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
+        "notes": "Pre-release, not hardware-tested on this device. Brings the 3.2.x line, including everything released since 3.1.2.",
+        "version": "3.2.3-beta"
+      },
       {
         "bin": "TGRH/FW_SimEngine_v3.1.7-beta_TGRH.bin",
         "notes": "Recovers from a USB stall instead of going silent; 1:1 rotary detents. Pre-release.",

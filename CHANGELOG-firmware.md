@@ -1,3 +1,11 @@
+## v3.2.3-beta — 2026-09-16
+
+*Pre-release, every wheel except RALLY (already on 3.2.3). Not hardware-tested per device.*
+
+Brings these wheels onto the 3.2.x line. The 3.2.3 fix itself was RALLY-only; what is new
+here is everything released since 3.1.2.
+
+
 ## v3.2.3 — 2026-09-15
 
 *RALLY only.*
