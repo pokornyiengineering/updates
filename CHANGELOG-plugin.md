@@ -1,3 +1,11 @@
+## v1.2.3 — 2026-09-17
+
+### Fixes
+
+- **The Redline status now lights at the redline, not before it.** It was reading SimHub’s first
+  shift light, so the LED came on early in the rev range and stayed on.
+
+
 ## v1.2.2 — 2026-09-15
 
 ### New features

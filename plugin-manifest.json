@@ -1,8 +1,14 @@
 {
-  "version": "1.2.2",
-  "url": "Plugin/SimEngineSetup-1.2.2.exe",
-  "notes": "Multi-link colours on the elements they light, and a fix for firmware updates hanging part-way.",
+  "version": "1.2.3",
+  "url": "Plugin/SimEngineSetup-1.2.3.exe",
+  "notes": "The Redline status now lights at the redline instead of the first shift light.",
   "versions": [
+    {
+      "version": "1.2.3",
+      "url": "Plugin/SimEngineSetup-1.2.3.exe",
+      "notes": "The Redline status now lights at the redline instead of the first shift light.",
+      "commit": "b14762d0214375dbc6d29b4438934975e2187528"
+    },
     {
       "version": "1.2.2",
       "url": "Plugin/SimEngineSetup-1.2.2.exe",
