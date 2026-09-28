@@ -1,3 +1,21 @@
+## v3.2.4 — 2026-09-28
+
+*Stable, for every device. The 3.2.x line the wheels have been running as 3.2.3-beta is now a
+stable release, and the PDU5, the PDU7 and the LED Brows join it. For a wheel already on
+3.2.3-beta nothing changes but the version number.*
+
+### New features
+- **The PDU5, the PDU7 and the LED Brows run 3.x.** Their first release on this line, with the
+  whole 3.2.x feature set. A PDU keeps the Display ID it was given on 2.5.x.
+- **MCP MultiBox: a factory multi-link.** On a fresh settings page instance 0 comes set up —
+  encoder push switches the layer, the rotary steps it up and down. It is never written over a
+  configuration you have made yourself.
+
+### Fixes
+- **MCP MultiBox: the startup animation plays on the flag matrix only.** It was lighting the eight
+  encoder-ring LEDs as well.
+
+
 ## v3.2.3-beta — 2026-09-16
 
 *Pre-release, every wheel except RALLY (already on 3.2.3). Not hardware-tested per device.*

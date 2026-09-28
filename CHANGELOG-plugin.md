@@ -1,3 +1,53 @@
+## v1.3.0 — 2026-09-28
+
+### New device support
+
+Ten more devices are supported. Each arrives with its own picture, its LED layout and the setup it
+was designed with, so the LED Control tab does something useful before you change a thing:
+
+- **TGR-H**
+- **HYP-R**
+- **HYP-R PRO**
+- **GTE PRO V3**
+- **LMP PRO V2**
+- **GTB PRO**
+- **RALLY**
+- **PDU5**
+- **PDU7**
+- **LED Brows**
+
+### New features
+
+- **Build your own rev bar on a wheel that hasn't got one.** Choose which of the wheel's LEDs make
+  up the bar and what colours it runs through — a gradient, a wing that folds at the middle, or a
+  window on the rev counter — with your own redline.
+- **An LED Brows bar can follow either car spotter**, or be split into its eight LEDs and lit
+  separately.
+- **The LED tab shows every device as it is lit**, and highlights the LEDs that belong to whichever
+  element you have selected.
+- **Two of the same device are no longer mixed up.** SimHub decides which unit is which, and
+  swapping them over moves the colours straight away, with no restart.
+- **LEDs can be locked together into one element, or unlocked and used separately.**
+
+### Improvements
+
+- **Settings fold away into sections** on every tab, and stay how you leave them. The version block
+  in the header is now a connection dot next to Feedback.
+- **The idle animation gets out of the way** when you press or turn something, and stays off for
+  ten seconds afterwards.
+- **The Multi-link panel is easier to follow:** one name, four tiles and three steps, with a green
+  arrow on the layer that is active.
+
+### Fixes
+
+- **The changelog window fits on the screen** instead of stretching to its longest line, and a
+  bullet that wraps now reads as one point.
+- **The LED preview stays lit when you click away from SimHub**, and stops mirroring the wheel once
+  the engine is off.
+- **A colour scale is only offered where it can actually be drawn**, and the PDUs' status columns
+  no longer pick up the theme, which is how the wheels have always behaved.
+
+
 ## v1.2.3 — 2026-09-17
 
 ### Fixes

@@ -1,10 +1,16 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.1.2_F499.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "F499/FW_SimEngine_v3.2.4_F499.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "F499/FW_SimEngine_v3.2.4_F499.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "F499/FW_SimEngine_v3.2.3-beta_F499.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -39,11 +45,17 @@
     ]
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.1.2_FGT.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "FGT/FW_SimEngine_v3.2.4_FGT.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.2.4_FGT.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "FGT/FW_SimEngine_v3.2.3-beta_FGT.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -78,11 +90,17 @@
     ]
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.1.2_GTBPRO.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "GTBPRO/FW_SimEngine_v3.2.4_GTBPRO.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.2.4_GTBPRO.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.2.3-beta_GTBPRO.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -117,11 +135,17 @@
     ]
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.1.2_GTEPROV3.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "GTEPROV3/FW_SimEngine_v3.2.4_GTEPROV3.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.2.4_GTEPROV3.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.2.3-beta_GTEPROV3.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -156,11 +180,17 @@
     ]
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.1.2_HYPR.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "HYPR/FW_SimEngine_v3.2.4_HYPR.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "HYPR/FW_SimEngine_v3.2.4_HYPR.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "HYPR/FW_SimEngine_v3.2.3-beta_HYPR.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -195,11 +225,17 @@
     ]
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.1.2_HYPRPRO.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "HYPRPRO/FW_SimEngine_v3.2.4_HYPRPRO.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.2.4_HYPRPRO.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.2.3-beta_HYPRPRO.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -233,12 +269,32 @@
       }
     ]
   },
-  "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.1.2_LMPPROV2.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+  "PE LED Brows": {
+    "bin": "LEDBROWS/FW_SimEngine_v3.2.4_LEDBROWS.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "LEDBROWS/FW_SimEngine_v3.2.4_LEDBROWS.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      }
+    ]
+  },
+  "PE LMP PRO V2": {
+    "bin": "LMPPROV2/FW_SimEngine_v3.2.4_LMPPROV2.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
+    "versions": [
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.2.4_LMPPROV2.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.2.3-beta_LMPPROV2.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -273,11 +329,17 @@
     ]
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.1.2_LMPH.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "LMPH/FW_SimEngine_v3.2.4_LMPH.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "LMPH/FW_SimEngine_v3.2.4_LMPH.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "LMPH/FW_SimEngine_v3.2.3-beta_LMPH.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -312,11 +374,17 @@
     ]
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.1.2_MCPBB.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "MCPBB/FW_SimEngine_v3.2.4_MCPBB.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.2.4_MCPBB.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "MCPBB/FW_SimEngine_v3.2.3-beta_MCPBB.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -346,11 +414,17 @@
     ]
   },
   "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.1.2_MCPEB.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "MCPEB/FW_SimEngine_v3.2.4_MCPEB.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.2.4_MCPEB.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "MCPEB/FW_SimEngine_v3.2.3-beta_MCPEB.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -380,11 +454,17 @@
     ]
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.1.2_MCPIB.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "MCPIB/FW_SimEngine_v3.2.4_MCPIB.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.2.4_MCPIB.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "MCPIB/FW_SimEngine_v3.2.3-beta_MCPIB.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -414,11 +494,17 @@
     ]
   },
   "PE MCP MultiBox": {
-    "bin": "MCPMB/FW_SimEngine_v3.1.2_MCPMB.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "MCPMB/FW_SimEngine_v3.2.4_MCPMB.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "MCPMB/FW_SimEngine_v3.2.4_MCPMB.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "MCPMB/FW_SimEngine_v3.2.3-beta_MCPMB.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -437,12 +523,46 @@
       }
     ]
   },
-  "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.2.2_PGT.bin",
-    "commit": "089e535a7b7bc3a8c4ff636ccf47c240cd117810",
-    "notes": "PGT: rotaries 7 and 8 report the correct absolute position again.",
-    "version": "3.2.2",
+  "PE PDU5": {
+    "bin": "PDU5/FW_SimEngine_v3.2.4_PDU5.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "PDU5/FW_SimEngine_v3.2.4_PDU5.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      }
+    ]
+  },
+  "PE PDU7": {
+    "bin": "PDU7/FW_SimEngine_v3.2.4_PDU7.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
+    "versions": [
+      {
+        "bin": "PDU7/FW_SimEngine_v3.2.4_PDU7.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      }
+    ]
+  },
+  "PE PGT": {
+    "bin": "PGT/FW_SimEngine_v3.2.4_PGT.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
+    "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.2.4_PGT.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.2.3-beta_PGT.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",
@@ -484,11 +604,17 @@
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.2.3_RALLY.bin",
-    "commit": "06bf222aa16c9c48ae5e042573289cfcd41ff421",
-    "notes": "Mouse mode left and right no longer swapped. Also brings every change since 3.1.2.",
-    "version": "3.2.3",
+    "bin": "RALLY/FW_SimEngine_v3.2.4_RALLY.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.2.4_RALLY.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "RALLY/FW_SimEngine_v3.2.3_RALLY.bin",
         "commit": "06bf222aa16c9c48ae5e042573289cfcd41ff421",
@@ -523,11 +649,17 @@
     ]
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.1.2_TGRH.bin",
-    "commit": "",
-    "notes": "Multi-link layer reporting now matches the number of layers you set.",
-    "version": "3.1.2",
+    "bin": "TGRH/FW_SimEngine_v3.2.4_TGRH.bin",
+    "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+    "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+    "version": "3.2.4",
     "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.2.4_TGRH.bin",
+        "commit": "31fb6fa8564a8d43d3bab36c77c925fc050a6398",
+        "notes": "Stable 3.2.x for every device, and the first release for the PDU5, the PDU7 and the LED Brows.",
+        "version": "3.2.4"
+      },
       {
         "bin": "TGRH/FW_SimEngine_v3.2.3-beta_TGRH.bin",
         "commit": "5a5bce7b8bcd3a7ec2ccbbab8fd6bec163d74995",

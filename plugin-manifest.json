@@ -1,8 +1,14 @@
 {
-  "version": "1.2.3",
-  "url": "Plugin/SimEngineSetup-1.2.3.exe",
-  "notes": "The Redline status now lights at the redline instead of the first shift light.",
+  "version": "1.3.0",
+  "url": "Plugin/SimEngineSetup-1.3.0.exe",
+  "notes": "Ten more devices supported — the TGR-H, HYP-R, HYP-R PRO, GTE PRO V3, LMP PRO V2, GTB PRO, RALLY, PDU5, PDU7 and LED Brows — plus a rev bar you build yourself.",
   "versions": [
+    {
+      "version": "1.3.0",
+      "url": "Plugin/SimEngineSetup-1.3.0.exe",
+      "notes": "Ten more devices supported — the TGR-H, HYP-R, HYP-R PRO, GTE PRO V3, LMP PRO V2, GTB PRO, RALLY, PDU5, PDU7 and LED Brows — plus a rev bar you build yourself.",
+      "commit": "69f08ee686284646d87ba49eb44213fdbf4f4270"
+    },
     {
       "version": "1.2.3",
       "url": "Plugin/SimEngineSetup-1.2.3.exe",
