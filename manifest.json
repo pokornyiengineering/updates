@@ -1,15 +1,15 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.2.5_F499.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "F499/FW_SimEngine_v3.2.6_F499.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "F499/FW_SimEngine_v3.2.5_F499.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "F499/FW_SimEngine_v3.2.6_F499.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "F499/FW_SimEngine_v3.2.4_F499.bin",
@@ -51,16 +51,16 @@
     ]
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.2.5_FGT.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "FGT/FW_SimEngine_v3.2.6_FGT.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "FGT/FW_SimEngine_v3.2.5_FGT.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "FGT/FW_SimEngine_v3.2.6_FGT.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "FGT/FW_SimEngine_v3.2.4_FGT.bin",
@@ -102,16 +102,16 @@
     ]
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.2.5_GTBPRO.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "GTBPRO/FW_SimEngine_v3.2.6_GTBPRO.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "GTBPRO/FW_SimEngine_v3.2.5_GTBPRO.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "GTBPRO/FW_SimEngine_v3.2.6_GTBPRO.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.2.4_GTBPRO.bin",
@@ -153,16 +153,16 @@
     ]
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.2.5_GTEPROV3.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "GTEPROV3/FW_SimEngine_v3.2.6_GTEPROV3.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "GTEPROV3/FW_SimEngine_v3.2.5_GTEPROV3.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "GTEPROV3/FW_SimEngine_v3.2.6_GTEPROV3.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.2.4_GTEPROV3.bin",
@@ -204,16 +204,16 @@
     ]
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.2.5_HYPR.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "HYPR/FW_SimEngine_v3.2.6_HYPR.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "HYPR/FW_SimEngine_v3.2.5_HYPR.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "HYPR/FW_SimEngine_v3.2.6_HYPR.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "HYPR/FW_SimEngine_v3.2.4_HYPR.bin",
@@ -255,16 +255,16 @@
     ]
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.2.5_HYPRPRO.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "HYPRPRO/FW_SimEngine_v3.2.6_HYPRPRO.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "HYPRPRO/FW_SimEngine_v3.2.5_HYPRPRO.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "HYPRPRO/FW_SimEngine_v3.2.6_HYPRPRO.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.2.4_HYPRPRO.bin",
@@ -306,16 +306,16 @@
     ]
   },
   "PE LED Brows": {
-    "bin": "LEDBROWS/FW_SimEngine_v3.2.5_LEDBROWS.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "LEDBROWS/FW_SimEngine_v3.2.6_LEDBROWS.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "LEDBROWS/FW_SimEngine_v3.2.5_LEDBROWS.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "LEDBROWS/FW_SimEngine_v3.2.6_LEDBROWS.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "LEDBROWS/FW_SimEngine_v3.2.4_LEDBROWS.bin",
@@ -326,16 +326,16 @@
     ]
   },
   "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.2.5_LMPPROV2.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "LMPPROV2/FW_SimEngine_v3.2.6_LMPPROV2.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "LMPPROV2/FW_SimEngine_v3.2.5_LMPPROV2.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "LMPPROV2/FW_SimEngine_v3.2.6_LMPPROV2.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.2.4_LMPPROV2.bin",
@@ -377,16 +377,16 @@
     ]
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.2.5_LMPH.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "LMPH/FW_SimEngine_v3.2.6_LMPH.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "LMPH/FW_SimEngine_v3.2.5_LMPH.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "LMPH/FW_SimEngine_v3.2.6_LMPH.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "LMPH/FW_SimEngine_v3.2.4_LMPH.bin",
@@ -428,16 +428,16 @@
     ]
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.2.5_MCPBB.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "MCPBB/FW_SimEngine_v3.2.6_MCPBB.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "MCPBB/FW_SimEngine_v3.2.5_MCPBB.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "MCPBB/FW_SimEngine_v3.2.6_MCPBB.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "MCPBB/FW_SimEngine_v3.2.4_MCPBB.bin",
@@ -474,16 +474,16 @@
     ]
   },
   "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.2.5_MCPEB.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "MCPEB/FW_SimEngine_v3.2.6_MCPEB.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "MCPEB/FW_SimEngine_v3.2.5_MCPEB.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "MCPEB/FW_SimEngine_v3.2.6_MCPEB.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "MCPEB/FW_SimEngine_v3.2.4_MCPEB.bin",
@@ -520,16 +520,16 @@
     ]
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.2.5_MCPIB.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "MCPIB/FW_SimEngine_v3.2.6_MCPIB.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "MCPIB/FW_SimEngine_v3.2.5_MCPIB.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "MCPIB/FW_SimEngine_v3.2.6_MCPIB.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "MCPIB/FW_SimEngine_v3.2.4_MCPIB.bin",
@@ -566,16 +566,16 @@
     ]
   },
   "PE MCP MultiBox": {
-    "bin": "MCPMB/FW_SimEngine_v3.2.5_MCPMB.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "MCPMB/FW_SimEngine_v3.2.6_MCPMB.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "MCPMB/FW_SimEngine_v3.2.5_MCPMB.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "MCPMB/FW_SimEngine_v3.2.6_MCPMB.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "MCPMB/FW_SimEngine_v3.2.4_MCPMB.bin",
@@ -602,30 +602,30 @@
     ]
   },
   "PE MCP SideRotaryBox": {
-    "bin": "MCPSRB/FW_SimEngine_v3.2.5_MCPSRB.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "MCPSRB/FW_SimEngine_v3.2.6_MCPSRB.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "MCPSRB/FW_SimEngine_v3.2.5_MCPSRB.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "MCPSRB/FW_SimEngine_v3.2.6_MCPSRB.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       }
     ]
   },
   "PE PDU5": {
-    "bin": "PDU5/FW_SimEngine_v3.2.5_PDU5.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "PDU5/FW_SimEngine_v3.2.6_PDU5.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "PDU5/FW_SimEngine_v3.2.5_PDU5.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "PDU5/FW_SimEngine_v3.2.6_PDU5.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "PDU5/FW_SimEngine_v3.2.4_PDU5.bin",
@@ -636,16 +636,16 @@
     ]
   },
   "PE PDU7": {
-    "bin": "PDU7/FW_SimEngine_v3.2.5_PDU7.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "PDU7/FW_SimEngine_v3.2.6_PDU7.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "PDU7/FW_SimEngine_v3.2.5_PDU7.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "PDU7/FW_SimEngine_v3.2.6_PDU7.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "PDU7/FW_SimEngine_v3.2.4_PDU7.bin",
@@ -656,16 +656,16 @@
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.2.5_PGT.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "PGT/FW_SimEngine_v3.2.6_PGT.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "PGT/FW_SimEngine_v3.2.5_PGT.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "PGT/FW_SimEngine_v3.2.6_PGT.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "PGT/FW_SimEngine_v3.2.4_PGT.bin",
@@ -714,16 +714,16 @@
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.2.5_RALLY.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "RALLY/FW_SimEngine_v3.2.6_RALLY.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "RALLY/FW_SimEngine_v3.2.5_RALLY.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "RALLY/FW_SimEngine_v3.2.6_RALLY.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "RALLY/FW_SimEngine_v3.2.4_RALLY.bin",
@@ -765,16 +765,16 @@
     ]
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.2.5_TGRH.bin",
-    "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-    "notes": "First release for the MCP SideRotaryBox.",
-    "version": "3.2.5",
+    "bin": "TGRH/FW_SimEngine_v3.2.6_TGRH.bin",
+    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+    "version": "3.2.6",
     "versions": [
       {
-        "bin": "TGRH/FW_SimEngine_v3.2.5_TGRH.bin",
-        "commit": "2a9b212a4a3808827e63609734fee91a153069e6",
-        "notes": "First release for the MCP SideRotaryBox.",
-        "version": "3.2.5"
+        "bin": "TGRH/FW_SimEngine_v3.2.6_TGRH.bin",
+        "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
+        "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
+        "version": "3.2.6"
       },
       {
         "bin": "TGRH/FW_SimEngine_v3.2.4_TGRH.bin",

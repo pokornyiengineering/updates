@@ -1,4 +1,4 @@
-## v3.2.5 — 2026-10-01
+## v3.2.6 — 2026-10-01
 
 ### New features
 
@@ -6,7 +6,7 @@
 
 ### Fixes
 
-* **Rotary position for wheels with rotary switches were flipped.**
+* **Rotary switches read the position printed on the faceplate, and count in the direction they turn.**
 
 
 
