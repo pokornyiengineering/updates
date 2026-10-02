@@ -1,8 +1,14 @@
 {
-  "version": "1.3.0",
-  "url": "Plugin/SimEngineSetup-1.3.0.exe",
-  "notes": "Ten more devices supported — the TGR-H, HYP-R, HYP-R PRO, GTE PRO V3, LMP PRO V2, GTB PRO, RALLY, PDU5, PDU7 and LED Brows — plus a rev bar you build yourself.",
+  "version": "1.3.5",
+  "url": "Plugin/SimEngineSetup-1.3.5.exe",
+  "notes": "All devices are supported now, Rotary Rotation can blink, and a firmware update flashes only the device being updated.",
   "versions": [
+    {
+      "version": "1.3.5",
+      "url": "Plugin/SimEngineSetup-1.3.5.exe",
+      "notes": "All devices are supported now, Rotary Rotation can blink, and a firmware update flashes only the device being updated.",
+      "commit": "86f16938ba7028aafc194ea4551f10b604606a15"
+    },
     {
       "version": "1.3.0",
       "url": "Plugin/SimEngineSetup-1.3.0.exe",

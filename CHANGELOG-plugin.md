@@ -1,3 +1,30 @@
+## v1.3.5 — 2026-10-02
+
+### New device support
+
+- All devices are supported now.
+
+
+### New features
+
+- **The MCP MultiBox's matrix shows the gear beside a rev bar**, pops up a car setting's new value
+  when you change it, and shows the flag signals. The box can be mounted four ways.
+- **The brightness dialog dims the rev bar and the status LEDs on their own**, apart from the
+  buttons and the rotaries.
+- **Rotary Rotation can blink**, and a rotary with a single LED offers only Blink.
+
+### Improvements
+
+- **The LED tab centres each device in its card.**
+
+### Fixes
+
+- **After a flash that needs a power cycle, the plugin asks for the replug once** instead of asking
+  again every time you click OK.
+- **A firmware update flashes only the device being updated.** With several devices plugged in, one
+  could end up with another device's firmware.
+
+
 ## v1.3.0 — 2026-09-28
 
 ### New device support
@@ -56,8 +83,8 @@ was designed with, so the LED Control tab does something useful before you chang
   shift light, so the LED came on early in the rev range and stayed on.
 
 
-## v1.2.2 — 2026-09-15
-
+## v1.2.2 — 2026-09-15
+
 ### New features
 
 - **Multi-link layer colours now show up on the elements they light.** Until now they could only be
