@@ -1,3 +1,23 @@
+## v1.3.6 — 2026-10-05
+
+### New features
+
+- **A Button Toggle layer switches a button's LEDs on and off** with each press.
+- **A Button Press can blink for as long as the button is held**, or latched, from the new While
+  held box.
+- **A Redline layer can light at the car's own redline** from Lovely Car Data, or at the redline
+  from SimHub's Car settings.
+- **The idle animation can be Lights off**, which keeps the wheel dark while nobody is at it.
+- **The dash shows a multi-link's active layer in the colour picked for it.**
+
+### Improvements
+
+- **The dashboards come with the plugin** and update with it, no longer on their own.
+- **Outside the car the rev bar and the status LEDs show the theme**, and in the car only their
+  effects.
+- **ABS active and TC active light steadily**, with no flashing type to pick.
+
+
 ## v1.3.5 — 2026-10-02
 
 ### New device support
