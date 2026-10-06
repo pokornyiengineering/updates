@@ -1,3 +1,23 @@
+## v1.3.9 — 2026-10-06
+
+### New features
+
+- **Button Status: a button can light LEDs of your choice** while it is held, or switch them on and
+  off with each press, like a team-radio light. The LEDs are picked in a window like the RPM bar's.
+- **A multi-link's inputs can mark the active layer on a ring** with a dim level or a colour of their
+  own.
+
+### Improvements
+
+- **The MCP MultiBox ring shows its knob's position effects** and the multi-link's layers.
+
+### Fixes
+
+- **The MCP MultiBox ring lights where the picture shows it**, not one LED to the left.
+- **An unlocked status column lights a status only on the LEDs it is set on.**
+- **A static colour on a status LED shows in SimHub too**, not only in the car.
+
+
 ## v1.3.6 — 2026-10-05
 
 ### New features

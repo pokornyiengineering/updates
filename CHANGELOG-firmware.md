@@ -1,3 +1,13 @@
+## v3.2.7 — 2026-10-06
+
+*MCP MultiBox only.*
+
+### Fixes
+
+* **MCP MultiBox brightness limited.**
+
+
+
 ## v3.2.6 — 2026-10-01
 
 ### New features

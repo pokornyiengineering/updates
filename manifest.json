@@ -566,11 +566,17 @@
     ]
   },
   "PE MCP MultiBox": {
-    "bin": "MCPMB/FW_SimEngine_v3.2.6_MCPMB.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "MCPMB/FW_SimEngine_v3.2.7_MCPMB.bin",
+    "commit": "4dde0549ca8909f3f46400092003afbd7e53d755",
+    "notes": "The flag matrix is dimmer, so the box runs cooler.",
+    "version": "3.2.7",
     "versions": [
+      {
+        "bin": "MCPMB/FW_SimEngine_v3.2.7_MCPMB.bin",
+        "commit": "4dde0549ca8909f3f46400092003afbd7e53d755",
+        "notes": "The flag matrix is dimmer, so the box runs cooler.",
+        "version": "3.2.7"
+      },
       {
         "bin": "MCPMB/FW_SimEngine_v3.2.6_MCPMB.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
