@@ -1,3 +1,17 @@
+## v3.3.0 — 2026-10-09
+
+### New features
+
+* **MCP ButtonBox16: first release.**
+* **Supply voltage readable from the PC.**
+
+### Fixes
+
+* **Inputs no longer stop on long USB cables while the LEDs keep working.**
+* **MCP MultiBox, HYP-R and TGR-H LED current limited.**
+
+
+
 ## v3.2.7 — 2026-10-06
 
 *MCP MultiBox only.*

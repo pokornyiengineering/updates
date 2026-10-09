@@ -1,10 +1,16 @@
 {
   "PE F499": {
-    "bin": "F499/FW_SimEngine_v3.2.6_F499.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "F499/FW_SimEngine_v3.3.0_F499.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "F499/FW_SimEngine_v3.3.0_F499.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "F499/FW_SimEngine_v3.2.6_F499.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -51,11 +57,17 @@
     ]
   },
   "PE FGT": {
-    "bin": "FGT/FW_SimEngine_v3.2.6_FGT.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "FGT/FW_SimEngine_v3.3.0_FGT.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "FGT/FW_SimEngine_v3.3.0_FGT.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "FGT/FW_SimEngine_v3.2.6_FGT.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -102,11 +114,17 @@
     ]
   },
   "PE GTB Pro": {
-    "bin": "GTBPRO/FW_SimEngine_v3.2.6_GTBPRO.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "GTBPRO/FW_SimEngine_v3.3.0_GTBPRO.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "GTBPRO/FW_SimEngine_v3.3.0_GTBPRO.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "GTBPRO/FW_SimEngine_v3.2.6_GTBPRO.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -153,11 +171,17 @@
     ]
   },
   "PE GTE PRO V3": {
-    "bin": "GTEPROV3/FW_SimEngine_v3.2.6_GTEPROV3.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "GTEPROV3/FW_SimEngine_v3.3.0_GTEPROV3.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "GTEPROV3/FW_SimEngine_v3.3.0_GTEPROV3.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "GTEPROV3/FW_SimEngine_v3.2.6_GTEPROV3.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -204,11 +228,17 @@
     ]
   },
   "PE HYP-R": {
-    "bin": "HYPR/FW_SimEngine_v3.2.6_HYPR.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "HYPR/FW_SimEngine_v3.3.0_HYPR.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "HYPR/FW_SimEngine_v3.3.0_HYPR.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "HYPR/FW_SimEngine_v3.2.6_HYPR.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -255,11 +285,17 @@
     ]
   },
   "PE HYP-R PRO": {
-    "bin": "HYPRPRO/FW_SimEngine_v3.2.6_HYPRPRO.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "HYPRPRO/FW_SimEngine_v3.3.0_HYPRPRO.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "HYPRPRO/FW_SimEngine_v3.3.0_HYPRPRO.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "HYPRPRO/FW_SimEngine_v3.2.6_HYPRPRO.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -306,11 +342,17 @@
     ]
   },
   "PE LED Brows": {
-    "bin": "LEDBROWS/FW_SimEngine_v3.2.6_LEDBROWS.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "LEDBROWS/FW_SimEngine_v3.3.0_LEDBROWS.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "LEDBROWS/FW_SimEngine_v3.3.0_LEDBROWS.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "LEDBROWS/FW_SimEngine_v3.2.6_LEDBROWS.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -326,11 +368,17 @@
     ]
   },
   "PE LMP PRO V2": {
-    "bin": "LMPPROV2/FW_SimEngine_v3.2.6_LMPPROV2.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "LMPPROV2/FW_SimEngine_v3.3.0_LMPPROV2.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "LMPPROV2/FW_SimEngine_v3.3.0_LMPPROV2.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "LMPPROV2/FW_SimEngine_v3.2.6_LMPPROV2.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -377,11 +425,17 @@
     ]
   },
   "PE LMPH": {
-    "bin": "LMPH/FW_SimEngine_v3.2.6_LMPH.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "LMPH/FW_SimEngine_v3.3.0_LMPH.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "LMPH/FW_SimEngine_v3.3.0_LMPH.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "LMPH/FW_SimEngine_v3.2.6_LMPH.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -428,11 +482,17 @@
     ]
   },
   "PE MCP ButtonBox": {
-    "bin": "MCPBB/FW_SimEngine_v3.2.6_MCPBB.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "MCPBB/FW_SimEngine_v3.3.0_MCPBB.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "MCPBB/FW_SimEngine_v3.3.0_MCPBB.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "MCPBB/FW_SimEngine_v3.2.6_MCPBB.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -473,12 +533,32 @@
       }
     ]
   },
-  "PE MCP EncoderBox": {
-    "bin": "MCPEB/FW_SimEngine_v3.2.6_MCPEB.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+  "PE MCP ButtonBox16": {
+    "bin": "MCPBB16/FW_SimEngine_v3.3.0_MCPBB16.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "MCPBB16/FW_SimEngine_v3.3.0_MCPBB16.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      }
+    ]
+  },
+  "PE MCP EncoderBox": {
+    "bin": "MCPEB/FW_SimEngine_v3.3.0_MCPEB.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
+    "versions": [
+      {
+        "bin": "MCPEB/FW_SimEngine_v3.3.0_MCPEB.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "MCPEB/FW_SimEngine_v3.2.6_MCPEB.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -520,11 +600,17 @@
     ]
   },
   "PE MCP IgnitionBox": {
-    "bin": "MCPIB/FW_SimEngine_v3.2.6_MCPIB.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "MCPIB/FW_SimEngine_v3.3.0_MCPIB.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "MCPIB/FW_SimEngine_v3.3.0_MCPIB.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "MCPIB/FW_SimEngine_v3.2.6_MCPIB.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -566,11 +652,17 @@
     ]
   },
   "PE MCP MultiBox": {
-    "bin": "MCPMB/FW_SimEngine_v3.2.7_MCPMB.bin",
-    "commit": "4dde0549ca8909f3f46400092003afbd7e53d755",
-    "notes": "The flag matrix is dimmer, so the box runs cooler.",
-    "version": "3.2.7",
+    "bin": "MCPMB/FW_SimEngine_v3.3.0_MCPMB.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "MCPMB/FW_SimEngine_v3.3.0_MCPMB.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "MCPMB/FW_SimEngine_v3.2.7_MCPMB.bin",
         "commit": "4dde0549ca8909f3f46400092003afbd7e53d755",
@@ -608,11 +700,17 @@
     ]
   },
   "PE MCP SideRotaryBox": {
-    "bin": "MCPSRB/FW_SimEngine_v3.2.6_MCPSRB.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "MCPSRB/FW_SimEngine_v3.3.0_MCPSRB.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "MCPSRB/FW_SimEngine_v3.3.0_MCPSRB.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "MCPSRB/FW_SimEngine_v3.2.6_MCPSRB.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -622,11 +720,17 @@
     ]
   },
   "PE PDU5": {
-    "bin": "PDU5/FW_SimEngine_v3.2.6_PDU5.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "PDU5/FW_SimEngine_v3.3.0_PDU5.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "PDU5/FW_SimEngine_v3.3.0_PDU5.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "PDU5/FW_SimEngine_v3.2.6_PDU5.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -642,11 +746,17 @@
     ]
   },
   "PE PDU7": {
-    "bin": "PDU7/FW_SimEngine_v3.2.6_PDU7.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "PDU7/FW_SimEngine_v3.3.0_PDU7.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "PDU7/FW_SimEngine_v3.3.0_PDU7.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "PDU7/FW_SimEngine_v3.2.6_PDU7.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -662,11 +772,17 @@
     ]
   },
   "PE PGT": {
-    "bin": "PGT/FW_SimEngine_v3.2.6_PGT.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "PGT/FW_SimEngine_v3.3.0_PGT.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "PGT/FW_SimEngine_v3.3.0_PGT.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "PGT/FW_SimEngine_v3.2.6_PGT.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -720,11 +836,17 @@
     ]
   },
   "PE RALLY": {
-    "bin": "RALLY/FW_SimEngine_v3.2.6_RALLY.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "RALLY/FW_SimEngine_v3.3.0_RALLY.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "RALLY/FW_SimEngine_v3.3.0_RALLY.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "RALLY/FW_SimEngine_v3.2.6_RALLY.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
@@ -771,11 +893,17 @@
     ]
   },
   "PE TGR-H": {
-    "bin": "TGRH/FW_SimEngine_v3.2.6_TGRH.bin",
-    "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
-    "notes": "Rotary switches read the position printed on the faceplate. First release for the MCP SideRotaryBox.",
-    "version": "3.2.6",
+    "bin": "TGRH/FW_SimEngine_v3.3.0_TGRH.bin",
+    "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+    "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+    "version": "3.3.0",
     "versions": [
+      {
+        "bin": "TGRH/FW_SimEngine_v3.3.0_TGRH.bin",
+        "commit": "2543f010d725355243fc4377cb41da460f6829eb",
+        "notes": "First release for the MCP ButtonBox16. Inputs no longer stop on long USB cables while the LEDs keep working, and the MCP MultiBox, HYP-R and TGR-H LED current is limited.",
+        "version": "3.3.0"
+      },
       {
         "bin": "TGRH/FW_SimEngine_v3.2.6_TGRH.bin",
         "commit": "9cf6ec3f84e31af35d6d96981445128864a8863c",
