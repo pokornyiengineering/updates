@@ -1,8 +1,14 @@
 {
-  "version": "1.3.17",
-  "url": "Plugin/SimEngineSetup-1.3.17.exe",
-  "notes": "The MCP boxes mount four ways, the MultiBox pops up the brake bias, and the PDU5, PDU7, LED Brows and MultiBox come with default LED presets.",
+  "version": "1.3.18",
+  "url": "Plugin/SimEngineSetup-1.3.18.exe",
+  "notes": "A multi-link on the HYP-R's rotaries lights their own rings.",
   "versions": [
+    {
+      "version": "1.3.18",
+      "url": "Plugin/SimEngineSetup-1.3.18.exe",
+      "notes": "A multi-link on the HYP-R's rotaries lights their own rings.",
+      "commit": "fe7898d8a1a62037d48516b82d4a8d393b3d7820"
+    },
     {
       "version": "1.3.17",
       "url": "Plugin/SimEngineSetup-1.3.17.exe",

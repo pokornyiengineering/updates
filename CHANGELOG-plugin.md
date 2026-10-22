@@ -1,3 +1,10 @@
+## v1.3.18 — 2026-10-22
+
+### Fixes
+
+- **A multi-link on the HYP-R's rotaries lights their own rings**, not the button halos.
+
+
 ## v1.3.17 — 2026-10-22
 
 ### New features
