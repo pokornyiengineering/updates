@@ -1,8 +1,14 @@
 {
-  "version": "1.3.9",
-  "url": "Plugin/SimEngineSetup-1.3.9.exe",
-  "notes": "Button Status lights LEDs of your choice from a button, and the MCP MultiBox ring lights where it should.",
+  "version": "1.3.17",
+  "url": "Plugin/SimEngineSetup-1.3.17.exe",
+  "notes": "The MCP boxes mount four ways, the MultiBox pops up the brake bias, and the PDU5, PDU7, LED Brows and MultiBox come with default LED presets.",
   "versions": [
+    {
+      "version": "1.3.17",
+      "url": "Plugin/SimEngineSetup-1.3.17.exe",
+      "notes": "The MCP boxes mount four ways, the MultiBox pops up the brake bias, and the PDU5, PDU7, LED Brows and MultiBox come with default LED presets.",
+      "commit": "f208f8d7988fb15e50403e1280996c830a35c87c"
+    },
     {
       "version": "1.3.9",
       "url": "Plugin/SimEngineSetup-1.3.9.exe",

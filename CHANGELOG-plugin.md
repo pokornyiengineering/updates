@@ -1,3 +1,28 @@
+## v1.3.17 — 2026-10-22
+
+### New features
+
+- **The MCP ButtonBox, ButtonBox16 and EncoderBox can be mounted four ways**: upright, upside
+  down, or rotated left or right, as the MultiBox can.
+- **The MCP MultiBox pops up the brake bias** when it changes, to a tenth.
+- **A multi-link's inputs can colour the rest**: the active layer keeps its own colour, every other
+  layer takes one chosen colour.
+- **The PDU5, PDU7, LED Brows and MCP MultiBox come with their default LED presets.**
+
+### Improvements
+
+- **The MCP MultiBox rev bar can light from Lovely Car Data** again.
+- **The gear on the MCP MultiBox stays readable on a light theme.**
+- **Outside the car the MCP MultiBox shows the theme**, not the gear SimHub reports.
+
+### Fixes
+
+- **The bite point no longer drops to 0 after a long Windows uptime.**
+- **Dragging a layer no longer loses the hidden global layers.**
+- **The driver repair is no longer offered while Windows is still setting up the bootloader's
+  driver.**
+
+
 ## v1.3.9 — 2026-10-06
 
 ### New features
